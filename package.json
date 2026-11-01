@@ -29,7 +29,7 @@
     "helmet": "0.1.0",
     "highlight.js": "10.4.1",
     "jade": "0.34.1",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "moment": "2.29.4",
     "mongoose": "6.13.6",
     "passport": "0.6.0",
